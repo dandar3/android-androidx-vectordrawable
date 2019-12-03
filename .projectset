@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-vectordrawable/tags/1.0.0,androidx-vectordrawable,20d8305a1b16001a1590adb2ced968d4;https://github.com/dandar3/android-androidx-vectordrawable;https://github.com/dandar3/android-androidx-vectordrawable;branches;tags;trunk;true;3e031c13-8626-29bc-3368-ce57b7db7bff;https://github.com/dandar3/android-androidx-vectordrawable;;false;;;0"/>
+</provider>
+</psf>
